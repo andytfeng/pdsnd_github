@@ -16,3 +16,4 @@ It's important to give proper credit. Add links to any repo that inspired you or
 Edit. Task C of 2.Improve Documentation
 Edit X1 Task B of 3.Additional Changes to Documentation
 Edit X2 Task B of 3.Additional Changes to Documentation
+Edit X3 Task B of 3.Additional Changes to Documentation
